@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"i'm currrently reading honey girl"
 Use the left arrow to go back!
